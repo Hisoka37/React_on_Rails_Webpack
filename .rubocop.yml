@@ -4,6 +4,9 @@ AllCops:
     - "Guardfile"
     - "Rakefile"
     - "node_modules/**/*"
+    - "bin/bundle"
+    - "config/puma.rb"
+    - "config/environments/production.rb"
 
   DisplayCopNames: true
 
@@ -49,4 +52,8 @@ Style/HashEachMethods:
 Style/HashTransformKeys:
   Enabled: false
 Style/HashTransformValues:
+  Enabled: false
+Style/EndOfLine:
+  Enabled: false
+  Style/GlobalStdStream:
   Enabled: false
