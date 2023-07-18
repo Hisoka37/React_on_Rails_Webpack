@@ -7,6 +7,7 @@ AllCops:
     - "bin/bundle"
     - "bin/rake"
     - "bin/rails"
+    - "bin/setup"
     - "config/puma.rb"
     - "config/environments/production.rb"
 
