@@ -71,7 +71,7 @@ This repository includes ruby code that can be use to decode the morse code.
 
 ```sh
   cd my-folder
-  git clone https://github.com/gaks1/my_new_rails_app.git
+  git clone https://github.com/Hisoka37/React_on_Rails_Webpack.git
 ```
 
 - To use this repo to your local computer make sure you have installed [Ruby](https://www.ruby-lang.org/), [Rails](https://rubyonrails.org/), [NodeJs](https://nodejs.org/en/download), and [PostgreSQL](https://www.postgresql.org/)
